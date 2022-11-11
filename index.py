@@ -12,3 +12,6 @@ def
 klg
 '''
 )
+st.button("按鈕1")
+
+print("程式結束")
